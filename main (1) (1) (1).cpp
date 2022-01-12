@@ -1,4 +1,4 @@
-//Student Management system
+//Student Record Management system
 #include <iostream>
 #include <fstream>
 #include <conio.h>
